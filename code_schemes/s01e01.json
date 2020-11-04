@@ -90,94 +90,6 @@
       "VisibleInCoda": true
     },
     {
-      "CodeID": "code-b63673d7",
-      "CodeType": "Normal",
-      "DisplayText": "improved service delivery",
-      "NumericValue": 8,
-      "StringValue": "improved_service_delivery",
-      "VisibleInCoda": true
-    },
-    {
-      "CodeID": "code-330a23ff",
-      "CodeType": "Normal",
-      "DisplayText": "misappropriation of covid19 funds",
-      "NumericValue": 9,
-      "StringValue": "misappropriation_of_covid19_funds",
-      "VisibleInCoda": true
-    },
-    {
-      "CodeID": "code-01229b6a",
-      "CodeType": "Normal",
-      "DisplayText": "poor service",
-      "NumericValue": 10,
-      "StringValue": "poor_service",
-      "VisibleInCoda": true
-    },
-    {
-      "CodeID": "code-fef1cf32",
-      "CodeType": "Normal",
-      "DisplayText": "inadequate access to drugs",
-      "NumericValue": 11,
-      "StringValue": "inadequate_access_to_drugs",
-      "VisibleInCoda": true
-    },
-    {
-      "CodeID": "code-6933ae0f",
-      "CodeType": "Normal",
-      "DisplayText": "hospital inaccessibility",
-      "NumericValue": 12,
-      "StringValue": "hospital_inaccessibility",
-      "VisibleInCoda": true
-    },
-    {
-      "CodeID": "code-fafba38c",
-      "CodeType": "Normal",
-      "DisplayText": "no adequate service due to strict guidelines",
-      "NumericValue": 13,
-      "StringValue": "no_adequate_service_due_to_strict_guidelines",
-      "VisibleInCoda": true
-    },
-    {
-      "CodeID": "code-cad58602",
-      "CodeType": "Normal",
-      "DisplayText": "drug cost and affordability",
-      "NumericValue": 14,
-      "StringValue": "drug_cost_and_affordability",
-      "VisibleInCoda": true
-    },
-    {
-      "CodeID": "code-298cfd29",
-      "CodeType": "Normal",
-      "DisplayText": "health-care workers strike",
-      "NumericValue": 15,
-      "StringValue": "health_care_workers_strike",
-      "VisibleInCoda": true
-    },
-    {
-      "CodeID": "code-1db46c1f",
-      "CodeType": "Normal",
-      "DisplayText": "negative impacts on livelihoods",
-      "NumericValue": 16,
-      "StringValue": "negative_impacts_on_livelihoods",
-      "VisibleInCoda": true
-    },
-    {
-      "CodeID": "code-cd4858b0",
-      "CodeType": "Normal",
-      "DisplayText": "mitigations for schools reopening",
-      "NumericValue": 17,
-      "StringValue": "mitigations_for_schools_reopening",
-      "VisibleInCoda": true
-    },
-    {
-      "CodeID": "code-9f0ab014",
-      "CodeType": "Normal",
-      "DisplayText": "other theme",
-      "NumericValue": 18,
-      "StringValue": "other_theme",
-      "VisibleInCoda": true
-    },
-    {
       "CodeID": "code-NA-f93d3eb7",
       "CodeType": "Control",
       "ControlCode": "NA",
@@ -313,48 +225,48 @@
       "VisibleInCoda": true
     },
     {
-      "MetaCode": "other",
-      "StringValue": "other",
-      "DisplayText": "meta: other",
-      "VisibleInCoda": true,
-      "NumericValue": -100110,
       "CodeID": "code-O-7ce0d2a7",
-      "CodeType": "Meta"
-    },
-    {
-      "DisplayText": "meta: gratitude",
-      "VisibleInCoda": true,
-      "NumericValue": -100100,
-      "CodeID": "code-GR-e6de1b7e",
       "CodeType": "Meta",
-      "MetaCode": "gratitude",
-      "StringValue": "gratitude"
-    },
-    {
-      "DisplayText": "meta: about conversation",
-      "VisibleInCoda": true,
-      "CodeID": "code-AC-9ed22631",
-      "NumericValue": -100120,
-      "CodeType": "Meta",
-      "MetaCode": "about_conversation",
-      "StringValue": "about_conversation"
-    },
-    {
-      "NumericValue": -100130,
-      "CodeID": "code-CR-8e99616b",
-      "CodeType": "Meta",
-      "MetaCode": "chasing_reply",
-      "StringValue": "chasing_reply",
-      "DisplayText": "meta: chasing reply",
+      "MetaCode": "other",
+      "DisplayText": "meta: other",
+      "NumericValue": -100110,
+      "StringValue": "other",
       "VisibleInCoda": true
     },
     {
-      "NumericValue": -100140,
+      "CodeID": "code-GR-e6de1b7e",
+      "CodeType": "Meta",
+      "MetaCode": "gratitude",
+      "DisplayText": "meta: gratitude",
+      "NumericValue": -100100,
+      "StringValue": "gratitude",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-AC-9ed22631",
+      "CodeType": "Meta",
+      "MetaCode": "about_conversation",
+      "DisplayText": "meta: about conversation",
+      "NumericValue": -100120,
+      "StringValue": "about_conversation",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-CR-8e99616b",
+      "CodeType": "Meta",
+      "MetaCode": "chasing_reply",
+      "DisplayText": "meta: chasing reply",
+      "NumericValue": -100130,
+      "StringValue": "chasing_reply",
+      "VisibleInCoda": true
+    },
+    {
       "CodeID": "code-I-b13a41f6",
       "CodeType": "Meta",
       "MetaCode": "impact",
-      "StringValue": "impact",
       "DisplayText": "meta: impact",
+      "NumericValue": -100140,
+      "StringValue": "impact",
       "VisibleInCoda": true
     }
   ]
