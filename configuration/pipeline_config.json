@@ -18,7 +18,7 @@
       ],
       "TestContactUUIDs": [
         "94075043-57c6-43c7-8b89-880478ccad8e",
-        "1b895d33-a592-472f-9d01-dbf9b412a6e1"
+        "0e56c4f8-8714-49c0-8d1f-a5a75c21b1c9"
       ]
     }
   ],
@@ -56,9 +56,9 @@
     {"RapidProKey": "Age (Text) - unicef_covid19_ke_s01_demog", "PipelineKey": "age_raw"},
     {"RapidProKey": "Age (Time) - unicef_covid19_ke_s01_demog", "PipelineKey": "age_time"}
   ],
-  "ProjectStartDate": "2020-01-01T00:00:00+03:00",
+  "ProjectStartDate": "2020-11-17T10:30:00+03:00",
   "ProjectEndDate": "2100-01-01T00:00:00+03:00",
-  "FilterTestMessages": false,
+  "FilterTestMessages": true,
   "MoveWSMessages": true,
   "AutomatedAnalysis": {
     "GenerateCountyThemeDistributionMaps": true,
