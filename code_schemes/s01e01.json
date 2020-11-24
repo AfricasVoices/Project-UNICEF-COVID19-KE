@@ -90,6 +90,62 @@
       "VisibleInCoda": true
     },
     {
+      "CodeID": "code-53399b8d",
+      "CodeType": "Normal",
+      "DisplayText": "lack of individual resources",
+      "NumericValue": 8,
+      "StringValue": "lack_of_individual_resources",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-d61a0b03",
+      "CodeType": "Normal",
+      "DisplayText": "mistrust of government",
+      "NumericValue": 9,
+      "StringValue": "mistrust_of_government",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-84dba7b6",
+      "CodeType": "Normal",
+      "DisplayText": "denial - covid19 doesn't exist",
+      "NumericValue": 10,
+      "StringValue": "denial_covid19_doesnt_exist",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-13f03cbd",
+      "CodeType": "Normal",
+      "DisplayText": "wearing mask is uncomfortable",
+      "NumericValue": 11,
+      "StringValue": "wearing_mask_is_uncomfortable",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-af7d716e",
+      "CodeType": "Normal",
+      "DisplayText": "leaders don't follow guidelines",
+      "NumericValue": 12,
+      "StringValue": "leaders_dont_follow_guidelines",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-67109270",
+      "CodeType": "Normal",
+      "DisplayText": "no social distancing",
+      "NumericValue": 13,
+      "StringValue": "no_social_distancing",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-4772b58f",
+      "CodeType": "Normal",
+      "DisplayText": "other theme",
+      "NumericValue": 14,
+      "StringValue": "other_theme",
+      "VisibleInCoda": true
+    },
+    {
       "CodeID": "code-NA-f93d3eb7",
       "CodeType": "Control",
       "ControlCode": "NA",
