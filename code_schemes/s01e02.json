@@ -90,6 +90,70 @@
       "VisibleInCoda": true
     },
     {
+      "CodeID": "code-b969042a",
+      "CodeType": "Normal",
+      "DisplayText": "should stay home",
+      "NumericValue": 8,
+      "StringValue": "should_stay_home",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-43a3db58",
+      "CodeType": "Normal",
+      "DisplayText": "build extra classrooms",
+      "NumericValue": 9,
+      "StringValue": "build_extra_classrooms",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-665ccfd2",
+      "CodeType": "Normal",
+      "DisplayText": "provide adequate water",
+      "NumericValue": 10,
+      "StringValue": "provide_adequate_water",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-0e50f343",
+      "CodeType": "Normal",
+      "DisplayText": "provide masks and sanitizers",
+      "NumericValue": 11,
+      "StringValue": "provide_masks_and_sanitizers",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-fc197696",
+      "CodeType": "Normal",
+      "DisplayText": "government support",
+      "NumericValue": 12,
+      "StringValue": "government_support",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-ac315b65",
+      "CodeType": "Normal",
+      "DisplayText": "employ more teachers",
+      "NumericValue": 13,
+      "StringValue": "employ_more_teachers",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-491f933c",
+      "CodeType": "Normal",
+      "DisplayText": "ensure preventive measures",
+      "NumericValue": 14,
+      "StringValue": "ensure_preventive_measures",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-fca36859",
+      "CodeType": "Normal",
+      "DisplayText": "other theme",
+      "NumericValue": 15,
+      "StringValue": "other_theme",
+      "VisibleInCoda": true
+    },
+    {
       "CodeID": "code-NA-f93d3eb7",
       "CodeType": "Control",
       "ControlCode": "NA",
