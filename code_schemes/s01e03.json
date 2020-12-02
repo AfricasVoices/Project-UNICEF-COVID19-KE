@@ -90,6 +90,54 @@
       "VisibleInCoda": true
     },
     {
+      "CodeID": "code-82b2e7a3",
+      "CodeType": "Normal",
+      "DisplayText": "denial (covid-19 doesn't exist)",
+      "NumericValue": 8,
+      "StringValue": "denial_covid_19_does_not_exist",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-d45889f9",
+      "CodeType": "Normal",
+      "DisplayText": "it's real and fatal",
+      "NumericValue": 9,
+      "StringValue": "it_is_real_and_fatal",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-aa6dec0d",
+      "CodeType": "Normal",
+      "DisplayText": "mistrust of government",
+      "NumericValue": 10,
+      "StringValue": "mistrust_of_government",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-fcbd00e2",
+      "CodeType": "Normal",
+      "DisplayText": "follow right practice",
+      "NumericValue": 11,
+      "StringValue": "follow_right_practice",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-b7e38bca",
+      "CodeType": "Normal",
+      "DisplayText": "adverse impact",
+      "NumericValue": 12,
+      "StringValue": "adverse_impact",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-23635c4e",
+      "CodeType": "Normal",
+      "DisplayText": "other theme",
+      "NumericValue": 13,
+      "StringValue": "other_theme",
+      "VisibleInCoda": true
+    },
+    {
       "CodeID": "code-NA-f93d3eb7",
       "CodeType": "Control",
       "ControlCode": "NA",
