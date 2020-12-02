@@ -94,7 +94,7 @@
       "CodeType": "Normal",
       "DisplayText": "denial (covid-19 doesn't exist)",
       "NumericValue": 8,
-      "StringValue": "denial_(covid-19_does_not_exist)",
+      "StringValue": "denial_covid_19_does_not_exist",
       "VisibleInCoda": true
     },
     {
