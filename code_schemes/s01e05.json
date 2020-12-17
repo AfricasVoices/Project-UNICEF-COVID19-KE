@@ -90,6 +90,54 @@
       "VisibleInCoda": true
     },
     {
+      "CodeID": "code-1fef8f31",
+      "CodeType": "Normal",
+      "DisplayText": "denial",
+      "NumericValue": 8,
+      "StringValue": "denial",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-180bb61f",
+      "CodeType": "Normal",
+      "DisplayText": "stay at home",
+      "NumericValue": 9,
+      "StringValue": "stay_at_home",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-901d6939",
+      "CodeType": "Normal",
+      "DisplayText": "following health guidelines",
+      "NumericValue": 10,
+      "StringValue": "following_health_guidelines",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-3a9d29bd",
+      "CodeType": "Normal",
+      "DisplayText": "avoid traveling",
+      "NumericValue": 11,
+      "StringValue": "avoid_traveling",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-513f704b",
+      "CodeType": "Normal",
+      "DisplayText": "avoid crowds",
+      "NumericValue": 12,
+      "StringValue": "avoid_crowds",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-84d91671",
+      "CodeType": "Normal",
+      "DisplayText": "other theme",
+      "NumericValue": 13,
+      "StringValue": "other_theme",
+      "VisibleInCoda": true
+    },
+    {
       "CodeID": "code-NA-f93d3eb7",
       "CodeType": "Control",
       "ControlCode": "NA",
