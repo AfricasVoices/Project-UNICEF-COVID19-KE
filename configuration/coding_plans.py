@@ -134,7 +134,7 @@ def get_rqa_coding_plans(pipeline_name):
                        CodingConfiguration(
                            coding_mode=CodingModes.MULTIPLE,
                            code_scheme=CodeSchemes.S01E07,
-                           coded_field="rqa_s01e05_coded",
+                           coded_field="rqa_s01e07_coded",
                            analysis_file_key="rqa_s01e07",
                            fold_strategy=lambda x, y: FoldStrategies.list_of_labels(CodeSchemes.S01E07, x, y)
                        )
