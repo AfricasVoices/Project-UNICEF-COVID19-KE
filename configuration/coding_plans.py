@@ -106,6 +106,91 @@ def get_rqa_coding_plans(pipeline_name):
                        )
                    ],
                    ws_code=CodeSchemes.WS_CORRECT_DATASET.get_code_with_match_value("UNICEF-COVID19-KE s01e05"),
+                   raw_field_fold_strategy=FoldStrategies.concatenate),
+
+        CodingPlan(raw_field="rqa_s01e06_raw",
+                   time_field="sent_on",
+                   run_id_field="rqa_s01e06_run_id",
+                   coda_filename="UNICEF_COVID19_KE_s01e06.json",
+                   icr_filename="s01e06.csv",
+                   coding_configurations=[
+                       CodingConfiguration(
+                           coding_mode=CodingModes.MULTIPLE,
+                           code_scheme=CodeSchemes.S01E06,
+                           coded_field="rqa_s01e06_coded",
+                           analysis_file_key="rqa_s01e06",
+                           fold_strategy=lambda x, y: FoldStrategies.list_of_labels(CodeSchemes.S01E06, x, y)
+                       )
+                   ],
+                   ws_code=CodeSchemes.WS_CORRECT_DATASET.get_code_with_match_value("UNICEF-COVID19-KE s01e06"),
+                   raw_field_fold_strategy=FoldStrategies.concatenate),
+
+        CodingPlan(raw_field="rqa_s01e07_raw",
+                   time_field="sent_on",
+                   run_id_field="rqa_s01e07_run_id",
+                   coda_filename="UNICEF_COVID19_KE_s01e07.json",
+                   icr_filename="s01e07.csv",
+                   coding_configurations=[
+                       CodingConfiguration(
+                           coding_mode=CodingModes.MULTIPLE,
+                           code_scheme=CodeSchemes.S01E07,
+                           coded_field="rqa_s01e05_coded",
+                           analysis_file_key="rqa_s01e07",
+                           fold_strategy=lambda x, y: FoldStrategies.list_of_labels(CodeSchemes.S01E07, x, y)
+                       )
+                   ],
+                   ws_code=CodeSchemes.WS_CORRECT_DATASET.get_code_with_match_value("UNICEF-COVID19-KE s01e07"),
+                   raw_field_fold_strategy=FoldStrategies.concatenate),
+
+        CodingPlan(raw_field="rqa_s01e08_raw",
+                   time_field="sent_on",
+                   run_id_field="rqa_s01e08_run_id",
+                   coda_filename="UNICEF_COVID19_KE_s01e08.json",
+                   icr_filename="s01e08.csv",
+                   coding_configurations=[
+                       CodingConfiguration(
+                           coding_mode=CodingModes.MULTIPLE,
+                           code_scheme=CodeSchemes.S01E08,
+                           coded_field="rqa_s01e08_coded",
+                           analysis_file_key="rqa_s01e08",
+                           fold_strategy=lambda x, y: FoldStrategies.list_of_labels(CodeSchemes.S01E08, x, y)
+                       )
+                   ],
+                   ws_code=CodeSchemes.WS_CORRECT_DATASET.get_code_with_match_value("UNICEF-COVID19-KE s01e08"),
+                   raw_field_fold_strategy=FoldStrategies.concatenate),
+
+        CodingPlan(raw_field="rqa_s01e09_raw",
+                   time_field="sent_on",
+                   run_id_field="rqa_s01e09_run_id",
+                   coda_filename="UNICEF_COVID19_KE_s01e09.json",
+                   icr_filename="s01e09.csv",
+                   coding_configurations=[
+                       CodingConfiguration(
+                           coding_mode=CodingModes.MULTIPLE,
+                           code_scheme=CodeSchemes.S01E09,
+                           coded_field="rqa_s01e09_coded",
+                           analysis_file_key="rqa_s01e09",
+                           fold_strategy=lambda x, y: FoldStrategies.list_of_labels(CodeSchemes.S01E09, x, y)
+                       )
+                   ],
+                   ws_code=CodeSchemes.WS_CORRECT_DATASET.get_code_with_match_value("UNICEF-COVID19-KE s01e09"),
+                   raw_field_fold_strategy=FoldStrategies.concatenate),
+
+        CodingPlan(raw_field="rqa_s01e10_raw",
+                   time_field="sent_on",
+                   run_id_field="rqa_s01e10_run_id",
+                   coda_filename="UNICEF_COVID19_KE_s01e10.json",
+                   icr_filename="s01e10.csv",
+                   coding_configurations=[
+                       CodingConfiguration(
+                           coding_mode=CodingModes.MULTIPLE,
+                           code_scheme=CodeSchemes.S01E10,
+                           coded_field="rqa_s01e10_coded",
+                           analysis_file_key="rqa_s01e10",
+                           fold_strategy=lambda x, y: FoldStrategies.list_of_labels(CodeSchemes.S01E10, x, y)
+                       )
+                   ],
+                   ws_code=CodeSchemes.WS_CORRECT_DATASET.get_code_with_match_value("UNICEF-COVID19-KE s01e10"),
                    raw_field_fold_strategy=FoldStrategies.concatenate)
     ]
 
