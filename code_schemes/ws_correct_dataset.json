@@ -92,6 +92,61 @@
       ]
     },
     {
+      "CodeID": "code-f947ea68",
+      "CodeType": "Normal",
+      "DisplayText": "UNICEF-COVID19-KE s01e06",
+      "StringValue": "unicef_covid19_ke_s01e06",
+      "NumericValue": 9,
+      "VisibleInCoda": true,
+      "MatchValues": [
+        "UNICEF-COVID19-KE s01e06"
+      ]
+    },
+    {
+      "CodeID": "code-1b1ee235",
+      "CodeType": "Normal",
+      "DisplayText": "UNICEF-COVID19-KE s01e07",
+      "StringValue": "unicef_covid19_ke_s01e07",
+      "NumericValue": 10,
+      "VisibleInCoda": true,
+      "MatchValues": [
+        "UNICEF-COVID19-KE s01e07"
+      ]
+    },
+    {
+      "CodeID": "code-2ad25486",
+      "CodeType": "Normal",
+      "DisplayText": "UNICEF-COVID19-KE s01e08",
+      "StringValue": "unicef_covid19_ke_s01e08",
+      "NumericValue": 11,
+      "VisibleInCoda": true,
+      "MatchValues": [
+        "UNICEF-COVID19-KE s01e08"
+      ]
+    },
+    {
+      "CodeID": "code-b62ffd3c",
+      "CodeType": "Normal",
+      "DisplayText": "UNICEF-COVID19-KE s01e09",
+      "StringValue": "unicef_covid19_ke_s01e09",
+      "NumericValue": 12,
+      "VisibleInCoda": true,
+      "MatchValues": [
+        "UNICEF-COVID19-KE s01e09"
+      ]
+    },
+    {
+      "CodeID": "code-51167ad3",
+      "CodeType": "Normal",
+      "DisplayText": "UNICEF-COVID19-KE s01e10",
+      "StringValue": "unicef_covid19_ke_s01e10",
+      "NumericValue": 13,
+      "VisibleInCoda": true,
+      "MatchValues": [
+        "UNICEF-COVID19-KE s01e10"
+      ]
+    },
+    {
       "CodeID": "code-NC-42f1d983",
       "CodeType": "Control",
       "ControlCode": "NC",
