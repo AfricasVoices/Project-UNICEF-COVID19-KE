@@ -98,6 +98,54 @@
       "VisibleInCoda": true
     },
     {
+      "CodeID": "code-b2c4bb7c",
+      "CodeType": "Normal",
+      "DisplayText": "following covid19 guidelines",
+      "NumericValue": 9,
+      "StringValue": "following_covid19_guidelines",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-fd9fbc35",
+      "CodeType": "Normal",
+      "DisplayText": "supporting those in need",
+      "NumericValue": 10,
+      "StringValue": "supporting_those_in_need",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-99031863",
+      "CodeType": "Normal",
+      "DisplayText": "staying home",
+      "NumericValue": 11,
+      "StringValue": "staying_home",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-6e2d2289",
+      "CodeType": "Normal",
+      "DisplayText": "educating the community",
+      "NumericValue": 12,
+      "StringValue": "educating_the_community",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-68c4ed07",
+      "CodeType": "Normal",
+      "DisplayText": "community is indifferent",
+      "NumericValue": 13,
+      "StringValue": "community_is_indifferent",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-29a42d72",
+      "CodeType": "Normal",
+      "DisplayText": "other theme",
+      "NumericValue": 14,
+      "StringValue": "other_theme",
+      "VisibleInCoda": true
+    },
+    {
       "CodeID": "code-NA-f93d3eb7",
       "CodeType": "Control",
       "ControlCode": "NA",
