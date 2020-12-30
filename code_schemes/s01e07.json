@@ -98,6 +98,54 @@
       "VisibleInCoda": true
     },
     {
+      "CodeID": "code-00aa92ad",
+      "CodeType": "Normal",
+      "DisplayText": "fear of spread of the virus",
+      "NumericValue": 9,
+      "StringValue": "fear_of_spread_of_the_virus",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-093f4077",
+      "CodeType": "Normal",
+      "DisplayText": "inadequate finance",
+      "NumericValue": 10,
+      "StringValue": "inadequate_finance",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-3d17cd2d",
+      "CodeType": "Normal",
+      "DisplayText": "inadequate preventative items",
+      "NumericValue": 11,
+      "StringValue": "inadequate_preventative_items",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-9023d393",
+      "CodeType": "Normal",
+      "DisplayText": "difficulty in maintaining right measures",
+      "NumericValue": 12,
+      "StringValue": "difficulty_in_maintaining_right_measures",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-bdce5224",
+      "CodeType": "Normal",
+      "DisplayText": "no fear",
+      "NumericValue": 13,
+      "StringValue": "no_fear",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-828f2137",
+      "CodeType": "Normal",
+      "DisplayText": "other theme",
+      "NumericValue": 14,
+      "StringValue": "other_theme",
+      "VisibleInCoda": true
+    },
+    {
       "CodeID": "code-NA-f93d3eb7",
       "CodeType": "Control",
       "ControlCode": "NA",
