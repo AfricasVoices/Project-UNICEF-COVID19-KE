@@ -98,6 +98,46 @@
       "VisibleInCoda": true
     },
     {
+      "CodeID": "code-18793e16",
+      "CodeType": "Normal",
+      "DisplayText": "by following covid19 guidelines",
+      "NumericValue": 9,
+      "StringValue": "by_following_covid_guidelines",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-a0fa4967",
+      "CodeType": "Normal",
+      "DisplayText": "educating the public",
+      "NumericValue": 10,
+      "StringValue": "educating_the_public",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-fbf63854",
+      "CodeType": "Normal",
+      "DisplayText": "unity and cooperation",
+      "NumericValue": 11,
+      "StringValue": "unity_and_cooperation",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-841f0d10",
+      "CodeType": "Normal",
+      "DisplayText": "ensuring accountability",
+      "NumericValue": 12,
+      "StringValue": "ensuring_accountability",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-f6ab6e2f",
+      "CodeType": "Normal",
+      "DisplayText": "other theme",
+      "NumericValue": 13,
+      "StringValue": "other_theme",
+      "VisibleInCoda": true
+    },
+    {
       "CodeID": "code-NA-f93d3eb7",
       "CodeType": "Control",
       "ControlCode": "NA",
