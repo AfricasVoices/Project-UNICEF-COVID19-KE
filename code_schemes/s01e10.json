@@ -98,6 +98,54 @@
       "VisibleInCoda": true
     },
     {
+        "CodeID": "code-12b8b93d",
+        "CodeType": "Normal",
+        "DisplayText": "yes, vital information",
+        "NumericValue": 9,
+        "StringValue": "yes_vital_information",
+        "VisibleInCoda": true
+    },
+    {
+        "CodeID": "code-9f5d28aa",
+        "CodeType": "Normal",
+        "DisplayText": "yes, it was useful",
+        "NumericValue": 10,
+        "StringValue": "yes_it_was_useful",
+        "VisibleInCoda": true
+    },
+    {
+        "CodeID": "code-213ecce1",
+        "CodeType": "Normal",
+        "DisplayText": "yes, radio as information channel",
+        "NumericValue": 11,
+        "StringValue": "yes_radio_as_information_channel",
+        "VisibleInCoda": true
+    },
+    {
+        "CodeID": "code-116a78bd",
+        "CodeType": "Normal",
+        "DisplayText": "no, it was not useful",
+        "NumericValue": 12,
+        "StringValue": "no_it_was_not_useful",
+        "VisibleInCoda": true
+    },
+    {
+        "CodeID": "code-d92f0b45",
+        "CodeType": "Normal",
+        "DisplayText": "yes, no reason",
+        "NumericValue": 13,
+        "StringValue": "yes_no_reason",
+        "VisibleInCoda": true
+    },
+    {
+        "CodeID": "code-01573c73",
+        "CodeType": "Normal",
+        "DisplayText": "no, no reason",
+        "NumericValue": 14,
+        "StringValue": "no_no_reason",
+        "VisibleInCoda": true
+    },
+    {
       "CodeID": "code-NA-f93d3eb7",
       "CodeType": "Control",
       "ControlCode": "NA",
