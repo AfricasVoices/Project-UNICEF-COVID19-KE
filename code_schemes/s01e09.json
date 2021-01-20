@@ -98,6 +98,46 @@
       "VisibleInCoda": true
     },
     {
+      "CodeID": "code-b6f31978",
+      "CodeType": "Normal",
+      "DisplayText": "follow health guidelines",
+      "NumericValue": 9,
+      "StringValue": "follow_health_guidelines",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-42e30f2c",
+      "CodeType": "Normal",
+      "DisplayText": "educate the citizens",
+      "NumericValue": 10,
+      "StringValue": "educate_the_citizens",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-1447aa2a",
+      "CodeType": "Normal",
+      "DisplayText": "ensure doctors' wellbeing",
+      "NumericValue": 11,
+      "StringValue": "ensure_doctors_wellbeing",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-03a79877",
+      "CodeType": "Normal",
+      "DisplayText": "provide support",
+      "NumericValue": 12,
+      "StringValue": "provide_support",
+      "VisibleInCoda": true
+    },
+    {
+      "CodeID": "code-796d8c3a",
+      "CodeType": "Normal",
+      "DisplayText": "other theme",
+      "NumericValue": 13,
+      "StringValue": "other_theme",
+      "VisibleInCoda": true
+    },
+    {
       "CodeID": "code-NA-f93d3eb7",
       "CodeType": "Control",
       "ControlCode": "NA",
