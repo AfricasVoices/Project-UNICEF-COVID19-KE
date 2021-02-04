@@ -16,7 +16,8 @@
         "unicef_covid19_ke_s01e07_activation",
         "unicef_covid19_ke_s01e08_activation",
         "unicef_covid19_ke_s01e09_activation",
-        "unicef_covid19_ke_s01e10_activation"
+        "unicef_covid19_ke_s01e10_activation",
+        "unicef_covid19_ke_s01_closeout_activation"
       ],
       "SurveyFlowNames": [
         "unicef_covid19_ke_s01_demog"
@@ -73,6 +74,10 @@
     {"RapidProKey": "Rqa_S01E10 (Text) - unicef_covid19_ke_s01e10_activation", "PipelineKey": "rqa_s01e10_raw", "IsActivationMessage": true},
     {"RapidProKey": "Rqa_S01E10 (Run ID) - unicef_covid19_ke_s01e10_activation", "PipelineKey": "rqa_s01e10_run_id"},
     {"RapidProKey": "Rqa_S01E10 (Time) - unicef_covid19_ke_s01e10_activation", "PipelineKey": "sent_on"},
+
+    {"RapidProKey": "Rqa_S01_Closeout (Text) - unicef_covid19_ke_s01_closeout_activation", "PipelineKey": "s01_close_out_raw", "IsActivationMessage": true},
+    {"RapidProKey": "Rqa_S01_Closeout (Run ID) - unicef_covid19_ke_s01_closeout_activation", "PipelineKey": "s01_close_out_run_id"},
+    {"RapidProKey": "Rqa_S01_Closeout (Time) - unicef_covid19_ke_s01_closeout_activation", "PipelineKey": "sent_on"},
 
     {"RapidProKey": "Constituency (Text) - unicef_covid19_ke_s01_demog", "PipelineKey": "location_raw"},
     {"RapidProKey": "Constituency (Time) - unicef_covid19_ke_s01_demog", "PipelineKey": "location_time"},
