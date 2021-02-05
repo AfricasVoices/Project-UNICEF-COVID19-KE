@@ -147,6 +147,17 @@
       ]
     },
     {
+      "CodeID": "code-dbd4fbf3",
+      "CodeType": "Normal",
+      "DisplayText": "UNICEF-COVID19-KE s01 close out",
+      "StringValue": "unicef_covid19_ke_s01_close_out",
+      "NumericValue": 14,
+      "VisibleInCoda": true,
+      "MatchValues": [
+        "UNICEF-COVID19-KE s01 close out"
+      ]
+    },
+    {
       "CodeID": "code-NC-42f1d983",
       "CodeType": "Control",
       "ControlCode": "NC",
