@@ -37,11 +37,11 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
+    target_counties = args.target_counties
     google_cloud_credentials_file_path = args.google_cloud_credentials_file_path
     pipeline_configuration_file_path = args.pipeline_configuration_file_path
     traced_data_paths = args.traced_data_paths
     opt_in_dataset_name = args.opt_in_dataset_name
-    target_counties = args.target_counties
     csv_output_file_path = args.csv_output_file_path
 
     sys.setrecursionlimit(10000)
